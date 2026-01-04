@@ -9,3 +9,5 @@ I integrated the React frontend with a local Node.js API. I replaced static mock
 
 ## Challenges
 - Adjusted UI components and mapped database query results to ensure the 6-student grid displays correctly according to the original design.
+
+# Assignment 6 completed as well
